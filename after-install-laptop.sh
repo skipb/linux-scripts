@@ -13,7 +13,7 @@ sudo apt-get update && sudo apt-get dist-upgrade && sudo apt-get autoremove
 sudo apt-get purge laptop-mode-tools
 
 # Install programs I commonly use.
-sudo apt-get install ssh ubuntu-restricted-extras ubuntu-restricted-addons build-essential git numix-gtk-theme numix-icon-theme-circle sublime-text-installer vlc python-gpgme indicator-cpufreq tlp ssh
+sudo apt-get install ssh ubuntu-restricted-extras ubuntu-restricted-addons build-essential git numix-gtk-theme numix-icon-theme-circle sublime-text-installer vlc python-gpgme indicator-cpufreq tlp ssh gimp
 
 # Starting SSH. Don't forget to change the port and turn off password access.
 sudo service ssh start
