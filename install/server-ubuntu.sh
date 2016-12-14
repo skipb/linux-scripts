@@ -21,4 +21,3 @@ sudo ufw allow 22/tcp
 sudo ufw enable
 
 echo "Done! It is probably a good idea to reboot." 
-
